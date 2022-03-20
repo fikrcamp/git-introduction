@@ -7,7 +7,7 @@ To complete this exercise you should
 3. Create a new file called `FIRSTNAME_LASTNAME.txt`
    - For example, if your name is Mohamed Ali then call your file `MOHAMED_ALI.txt`
 4. In this file, write an introduction yourself. You should include:
-   1. Your name
+   1. Your name hafsa
    2. Where you where born
    3. What country do you want to live in
    4. Your favourite movie

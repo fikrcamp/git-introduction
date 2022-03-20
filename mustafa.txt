@@ -1,0 +1,6 @@
+In this file, write an introduction yourself. You should include:
+   1. Your name: Mustafe
+   2. Where you where born: Hargeisa
+   3. What country do you want to live in: Somaliland
+   4. Your favourite movie: Faceoff
+   5. An interesting fact about yourself: I am kind and honest

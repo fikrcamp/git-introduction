@@ -8,10 +8,15 @@ To complete this exercise you should
    - For example, if your name is Mohamed Ali then call your file `MOHAMED_ALI.txt`
 4. In this file, write an introduction yourself. You should include:
    1. Your name
+       hodo ibrahim
    2. Where you where born
+       hargiesa
    3. What country do you want to live in
-   4. Your favourite movie
+       wherever its other then here
+   4. Your favourite series
+       penthouse
    5. An interesting fact about yourself
+       no really
 5. `Commit` the file to your repository
 6. `Push` the file to Github
 7. Open a `Pull Request` to this repository
